@@ -6,12 +6,5 @@ For a quick start guide to deployment, please visit our [Deployment Guide](Deplo
 
 ![P15 Open Platform High Level Architecture](media/P15-OpenPlatform-HighLevelArch.png)
 
-## Resources
 
-| Resource Link                                                      | Description                                                                                                                                                                         |
-|--------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|
-| [AI for Earth](https://aka.ms/aiforearth)                           | Learn about Microsoft's AI for Earth. The array of technical resources available and the grant program.                                                                             |
-| [Internet of Things Learning Path](https://aka.ms/iotlp)      | A five module course to learn the concepts of creating a scalable IoT solution on Azure.                                                                                            |
-| [Microsoft Learn](https://aka.ms/learn)                             | Microsoft's comprehensive and free learning platform                                                                                                                                |
 
