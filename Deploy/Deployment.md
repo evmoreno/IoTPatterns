@@ -1,8 +1,8 @@
-# Deploying Project 15 from Microsoft Open Platform
+# Deploying 
 
 This document walks through :
 
-- How to deploy Project 15 from Microsoft Open Platform
+- How to deploy this pattern from Microsoft Open Platform
 - Basic navigation using Raspberry Pi emulator
 
 ## Requirements
