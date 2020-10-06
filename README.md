@@ -1,39 +1,3 @@
-
-# Project 15 from Microsoft
-
-Open Platform for Conservation and Ecological Sustainability Solutions
-
-## About Project 15 from Microsoft
-
-Project 15 started in April 2019 when Sarah Maston realized that a [safe schools solution](https://www.linkedin.com/pulse/what-project-edison-faqs-sarah-maston) she had invented could be used for an anti-poaching use case. That if we could connect the Scientific Community to our Technical Community more broadly we could accelerate innovation for scientists.  Watch the [Project 15 video](https://www.youtube.com/watch?v=0A4B2RIWb9o) to learn more.
-
-| Quick Links                                          | Description                                                                                                                                  |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| [Deploy](Deploy/Deployment.md)                       | Instructions to deploy the Project 15 Open Platform to Azure and configure into your Azure account (spoiler alert: It's a click of a button) |
-| [Developer Guide](Developer-Guide/DeveloperGuide.md) | Double click into developing on the Project 15 Open Platform. Includes deep dive into the architecture and features.                  |
-
-## About Project 15 Open Platform for Conservation and Ecological Sustainability Solutions
-
-Our goal with a conservation and ecosystem sustainability open platform is to bring the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate  scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc.
-
-The P15 Open Platform will get teams roughly 80% of the way to a finished solution.
-
-![Project 15 Open Platform Core Goals](media/P15-OpenPlatform-CoreGoals.png)
-
-The core goals of the P15 Open Platform are:
-
-1. **Close the Skill Gap**  
-    Boost innovation with a ready-made platform, allowing the scientific developer to expand into specific use cases.
-1. **Increase Speed to Deployment**  
-    Open Platform get teams 80% of the way with their projects, dramatically reducing the time to start building crucial insights.
-1. **Lower the development cost**  
-    The Open Platform lowers the cost of overall development and reduces complexity. Opens up opportunities for partnering with the Open Source developer community and universities.
-
-With deployment to Azure in a **push of a button**, the main components of the infrastructure for a standard IoT Solution will be up and running.  We have documented some of the common scenarios for simulation of device data, connection of a device, and we will be working over time to create more enablement content through our [Project 15 YouTube Channel](https://aka.ms/project15video) and other Microsoft Learning channels.   If you have a specific scenario you need help with, please submit an [issue ticket](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request).  
-
-If you would like to contribute a feature or module to the Project 15 repo, submit a [pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request).  
-We are in the process of creating a list of known use cases with our scientific partners, a list of problems to be solved. Coming soon!
-
 ## Solution Overview
 
 The solution has three main categories
